@@ -1,3 +1,7 @@
 first
 
+<<<<<<< HEAD
 second local
+=======
+second
+>>>>>>> 5cc5809530d841a056fe161fe00bff90d8ff1395
